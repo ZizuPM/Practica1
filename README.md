@@ -3,8 +3,7 @@
 #
 ![LOGO FC](https://github.com/ZizuPM/Practica1/blob/main/img_logoFC_2019.png)
 # Practica I: _Servidor web en Oracle Cloud_.
-#
-#
+![ORACLE CLOUD](https://github.com/ZizuPM/Practica1/blob/main/Oracle-Cloud.png)
 ## Objetivo:
 El alumno instalará el servidor web Apache HTTPD, y publicará una formulario HTML en este servidor. Además, se familiarizará con el uso de los servicios OCI, VM Instances, Network security groups y Reserved public IP, proporcionados por Oracle Cloud.
 
