@@ -16,12 +16,15 @@ HTTP para ser enviado de manera cifrada.
 
 ## Desarrollo
 - Creación de cuenta en oracle cloud: https://www.oracle.com/mx/cloud/free/
+- Crear una VCN de acuerdo a la disponibilidad por región.
 - Creación y configuración de instacia.
 - Conexión por SSH.
 - Instalación del servidor Apache.
 - Creación y asignación de reglas de firewall.
 - Asiganación de IP publica fija.
 - Visualización web.
+- Asignación de un formulario web.
+
 
 ## Guia para su desarrollo
 Se ha desarrollado una guia para familiarizarse con el entorno de Oracle Cloud y pueden llevar a acabo la practica: https://docs.google.com/document/d/1IXHziujLpqZ_xmLO_J7ApscoHlUaqxR_CvsWZ55fIy4/edit?usp=sharing
@@ -34,6 +37,11 @@ NOTA: La guia solo sirve como material de apoyo, mas no contiene en su totalidad
 3. Colocar comentarios sobre la práctica (facilidad de ejecución, valoración de lo aprendido).
 
 ## Notas adicionales
+1. El reporte se entrega de manera individual.
+2. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
+3. Incluir las respuestas del Cuestionario en el reporte.
+4. Se pueden agregar posibles errores, complicaciones, opiniones, críticas de la práctica o del laboratorio, o cualquier comentario relativo a la práctica.
+5. Subir los archivos relacionados con la práctica a Moodle en formato pdf
 1. El reporte se entrega de manera individual.
 2. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
 3. Incluir las respuestas del Cuestionario en el reporte.
