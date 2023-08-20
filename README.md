@@ -18,7 +18,7 @@ HTTP para ser enviado de manera cifrada.
 - Crear una VCN de acuerdo a la disponibilidad por región.
 - Creación y configuración de instacia.
 - Conexión por SSH.
-- Instalación del servidor Apache.
+- Instalación del servidor Apache: https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/apache-on-ubuntu/01oci-ubuntu-apache-summary.htm.
 - Creación y asignación de reglas de firewall.
 - Asiganación de IP publica fija.
 - Visualización web.
