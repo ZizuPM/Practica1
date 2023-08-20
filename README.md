@@ -1,7 +1,7 @@
 # Taller de Sistemas Operativos, Redes de Cómputo, Sistemas Distribuidos y Manejo de Información
 # 
 #
-
+https://github.com/ZizuPM/Practica1/blob/main/img_logoFC_2019.png
 # Practica I: _Servidor web en Oracle Cloud_.
 #
 #
