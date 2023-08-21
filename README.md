@@ -36,10 +36,11 @@ NOTA: La guia solo sirve como material de apoyo, mas no contiene en su totalidad
 3. Colocar comentarios sobre la práctica (facilidad de ejecución, valoración de lo aprendido).
 
 ## Notas adicionales
-1. El reporte se entrega de manera individual.
-2. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
-3. Incluir las respuestas del Cuestionario en el reporte.
-4. Se pueden agregar posibles errores, complicaciones, opiniones, críticas de la práctica o del laboratorio, o cualquier comentario relativo a la práctica.
+1. La practica se realizara en equipos de maximo tres integrantes, SOLO UN INTEGRANTE POR EQUIPO debera crear la cuenta para acceder a Oracle Cloud, por que el periodo gratuito, esta limitado a 30 dias, posteriormente para el proyecto OTRO INTEGRANTE obtendra otra cuenta para el equipo.
+2. Cada integrante debera crear su propia instancia en la misma cuenta creada y realizar la practica, el reporte se entrega en equipo, el formato de entrega es PDF.
+3. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
+4. Incluir las respuestas del Cuestionario en el reporte.
+5. Se pueden agregar posibles errores, complicaciones, opiniones, críticas de la práctica o del laboratorio, o cualquier comentario relativo a la práctica.
 5. Subir los archivos relacionados con la práctica a Moodle en formato pdf
 1. El reporte se entrega de manera individual.
 2. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
