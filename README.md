@@ -31,8 +31,8 @@ Se ha desarrollado una guia para familiarizarse con el entorno de Oracle Cloud y
 NOTA: La guia solo sirve como material de apoyo, mas no contiene en su totalidad los pasos para llevar acabo la practica.
 
 ## Evaluación
-1. ¿Qué es el concepto de nube y a qué se refiere el término Iaas? (describir con sus propias palabras aunque sea un renglón).
-2. ¿Qué ventajas observas al utilizar la infraestructura que utilizamos en esta práctica? (describir con sus propias palabras aunque sea un renglón).
+1. ¿Qué es el concepto de nube y a qué se refiere el término IaaS? (describir con sus propias palabras)
+2. ¿Qué ventajas observas al utilizar la infraestructura que utilizamos en esta práctica? (describir con sus propias palabras).
 3. Colocar comentarios sobre la práctica (facilidad de ejecución, valoración de lo aprendido).
 
 ## Notas adicionales
